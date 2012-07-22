@@ -1,4 +1,4 @@
-bin_PROGRAMS = minbar minbar-applet
+bin_PROGRAMS = minbar 
 
 minbar_SOURCES = main.c main.h defines.h prefs.h locations-xml.c locations-xml.h config.c config.h preferences.c preferences.h calendar.h calendar.c
 
